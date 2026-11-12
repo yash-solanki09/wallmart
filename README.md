@@ -53,6 +53,3 @@ walmart-sales-dashboard-advanced/
 └── README.md
 ```
 
-## License
-
-Add a license here if you plan to share the project publicly.
